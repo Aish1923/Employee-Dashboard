@@ -1,0 +1,6 @@
+.buttons-container {
+  display: flex;
+}
+.add-employee-btn {
+  margin-right: 2em;
+}

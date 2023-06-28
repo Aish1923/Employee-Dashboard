@@ -1,0 +1,28 @@
+.form-input {
+  display: flex;
+  max-width: 20em;
+  justify-content: space-between;
+  flex-direction: column;
+  margin-bottom: 1em;
+}
+
+input {
+  border-radius: 5px;
+  padding: 15px;
+  border: 1px solid gray;
+  color: gray;
+  margin: 10px 0;
+}
+
+.form-input,
+.form-radio label {
+  color: black;
+  font-size: 1em;
+  font-weight: bold;
+  margin-right: 1em;
+}
+
+.error {
+  color: red;
+  font-size: 0.9em;
+}

@@ -1,0 +1,7 @@
+.p-datatable .p-datatable-tbody > tr:nth-child(odd) {
+  background: #e5e5e5;
+}
+
+.p-datatable .p-datatable-thead > tr > th {
+  background: #cacaca !important;
+}
